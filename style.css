@@ -49,7 +49,7 @@ h2{
     display:none;
 }
 .banner{
-    background-image: url(/var/www/html/netflix/images/netflix.jpg);
+    background-image: url(images/netflix.jpg);
     background-size: cover;
     background-position:center center;
     color: white;
